@@ -1,2 +1,5 @@
 # Thursday
-#we can type something
+We can type something
+I am in gitBash
+* one
+* two
